@@ -1,0 +1,6 @@
+li{
+    list-style-type: upper-roman;
+    list-style-position: outside;
+    background-color: coral;
+    list-style-image: url(image/bullet\ star\ mini.png);
+}

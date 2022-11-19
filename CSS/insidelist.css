@@ -1,0 +1,16 @@
+li{
+    /* list-style-type: lower-roman; */
+    /* list-style-type: none; */
+    list-style-type: square;
+    list-style-position: inside;
+    background-color: blue;
+}
+.one{
+    list-style-type: circle;
+    list-style-position: outside;
+    background-color: aqua;
+}
+.two{
+    list-style-type: decimal-leading-zero;
+    background-color: blueviolet;
+}

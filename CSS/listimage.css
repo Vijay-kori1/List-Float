@@ -1,0 +1,6 @@
+li{
+    list-style-type: circle;
+    list-style-position: inside;
+    background-color: burlywood;
+    list-style-image: url(image/bullet\ mini.png);
+}

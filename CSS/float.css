@@ -1,0 +1,26 @@
+h1{
+    background-color: aquamarine;
+    color: red
+}
+p{
+    float: right;
+    background-color: aqua;
+    color: rebeccapurple;
+}
+b{
+    /* float: inherit; */
+    display: inherit;
+    background-color: blue;
+    color: olive;
+    /* display: inline-block; */
+}
+u{
+    float: inherit;
+    background-color: crimson;
+    color: yellow;
+}
+i{
+    float: left;
+    background-color: antiquewhite;
+    color: darkgreen;
+}
